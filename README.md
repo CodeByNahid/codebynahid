@@ -5,7 +5,6 @@
 🌐 Passionate about **Web App Development** & building things that matter
 🌱 Currently crafting frameworks, full-stack apps, and open-source tools
 🧡 Open to collaborating on **research** and **open-source projects**
-🗺️ Check out my latest project → [TerraInk.app](https://terraink.app)
 🙋🏻‍♂️ Reach out — I'm always up for a good conversation!
 
 ---
@@ -30,11 +29,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codebynahid&theme=tokyonight&hide_border=true&mode=weekly&card_width=500" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codebynahid&theme=tokyonight&hide_border=true&card_width=500&dates=FFFFFF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=FFFFFF&currStreakNum=FF6B6B&sideNums=58A6FF&background=0D1117&stroke=30363D" alt="GitHub Streak (Current & Max)" />
+  <img src="https://streak-stats.demolab.com/?user=codebynahid&theme=tokyonight&hide_border=true&card_width=500" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
@@ -43,7 +38,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codebynahid&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codebynahid&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
